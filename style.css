@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fdf6f9;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #ff7aa2;
+}
+
+.tagline {
+  color: #888;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+.skills span {
+  display: inline-block;
+  background: #ffe4ec;
+  color: #ff4d88;
+  padding: 8px 15px;
+  margin: 5px;
+  border-radius: 20px;
+  font-size: 14px;
+}
